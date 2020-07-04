@@ -1,7 +1,7 @@
 body {
     display: grid;
     grid-template-columns: 30vw 60vw;
-    grid-template-rows: 15vw 24vw 20vw 25vw;
+    grid-template-rows: 15vw 24vw 25vw 25vw;
     margin: 2vw;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1.2vw;
